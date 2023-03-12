@@ -1,4 +1,4 @@
-# Telemarketing_Robot for autonomous navigation in dynamic obstacles
+# Telemarketing_Robot for autonomous navigation in real scenarios
 
 ## Dependencies
 * ROS Noetic
